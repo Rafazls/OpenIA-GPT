@@ -1,0 +1,11 @@
+{
+    "id": "9c",
+    "tipo": "crédito",
+    "estabelecimento": "Esporte C",
+    "horario": "2023-11-21 21:53:28",
+    "valor": "R$1103,00",
+    "nome_produto": "Artigo Esportivo",
+    "localizacao": "Porto Alegre - RS (Brasil)",
+    "status": "Possível Fraude",
+    "parecer" : "Foi identificado como possível fraude devido ao alto valor da transação em um horário não usual para compras desse tipo de produto. Recomenda-se uma análise mais detalhada para confirmar a legitimidade da transação."
+}
